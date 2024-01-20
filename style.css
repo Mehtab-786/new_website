@@ -1,0 +1,22 @@
+.Revenge{font-family:"Dancing Script", cursive ;font-weight: bold; font-size: 5rem;  text-align: center;background-color: rgba(173, 211, 112, 0.708); }
+
+.name{ font-family: "Creepster", system-ui ;margin-top: 0%;font-size: 5rem; margin-bottom: 0%;}
+
+p{font-size: 30px; font-family: "Dancing Script",cursive;margin: 0%;}
+
+.first{ text-align: center;background-color: aqua;}
+
+/* body{background-color: rgba(230, 216, 200, 0.911);} */
+body {background: 
+    linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+     url('./WallpaperDog-20493667.jpg') no-repeat center center fixed;
+    background-position: top;
+    margin-top: 10%;
+    background-size: cover;
+  }
+  
+  
+.sec{margin-bottom: 30px;}
+footer{padding-top: 100px;}
+
+.contact{padding-top: 30px;}
